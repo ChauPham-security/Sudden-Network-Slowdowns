@@ -1,3 +1,7 @@
+
+<img width="1139" alt="Screenshot 2025-06-11 at 11 29 33 AM" src="https://github.com/user-attachments/assets/15087750-a637-4021-b16a-a69a536ef9bf" />
+
+
 # 🐢 Sudden Network Slowdowns
 
 This project investigates a sudden internal network performance issue impacting legacy systems in the `10.0.0.0/16` range. After ruling out external DDoS activity, I suspected internal lateral movement or resource abuse. This threat hunt outlines the discovery of suspicious PowerShell activity, evidence of port scanning, and the mitigation steps taken.
